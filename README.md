@@ -1,7 +1,7 @@
 # CX-Best-Practices
 Outlined Notes to build from
 
-ADDING NOTES BASED ON QUALTRICS EXCELLENT INSIGHTS
+ADDING NOTES BASED ON QUALTRICS Inc EXCELLENT INSIGHTS
 
 Designing a World-class Digital CX Program - Qualtrics
 
