@@ -3,7 +3,7 @@ Outlined Notes to build from
 
 ADDING NOTES BASED ON QUALTRICS Inc EXCELLENT INSIGHTS
 
-Designing a World-class Digital CX Program - Qualtrics
+Designing a World-class Digital CX Program
 
 Customer journey mapping is a major component of any customer experience program - a key part of mapping the CX is identifying key moments/interactions that shape brand perception and loyalty.  For SaaS this is online via in-app, website, etc. and across platforms – Mobile, iPad, etc…
 But to truly optimize the CX onsite, you will need to talk directly to the customer so as to fill in the gaps left by analytics alone.
