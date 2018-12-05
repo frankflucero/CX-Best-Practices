@@ -8,7 +8,7 @@ Designing a World-class Digital CX Program
 Customer journey mapping is a major component of any customer experience program - a key part of mapping the CX is identifying key moments/interactions that shape brand perception and loyalty.  For SaaS this is online via in-app, website, etc. and across platforms – Mobile, iPad, etc…
 But to truly optimize the CX onsite, you will need to talk directly to the customer so as to fill in the gaps left by analytics alone.
 
-With this picture of the ctm’s experience we need to look for the following:
+With this picture of the customer’s experience we need to look for the following:
 -	Why is the person behaving this way?
 -	What was the initial purpose of their visit to the site, and were they successful?
 -	Did this onsite experience create a loyal customer?
