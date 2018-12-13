@@ -111,7 +111,7 @@ To summarize, here are the best practices for close loop management:
 5. Use the data to drive change, not just monitor metrics.
 6. Get senior leaders involved.
 
-GENERAL NOTES
+GENERAL NOTES -TSIA
 -	80% of SaaS companies are not profitable on a GAAP basis.  OI is low ~15% where I am at 25%
 -	SaaS or Ctm Success GM is ~70% where Supt Svs GM is ~90%
 -	SaaS Waterfall:
