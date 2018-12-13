@@ -1,7 +1,7 @@
 # CX-Best-Practices
 Outlined Notes to build from
 
-NOTES BASED ON QUALTRICS Inc EXCELLENT INSIGHTS
+NOTES BASED ON QUALTRICS Inc INSIGHTS, TSAI Insigths, Experience
 
 Designing a World-class Digital CX Program
 
@@ -110,3 +110,27 @@ To summarize, here are the best practices for close loop management:
 4. Macro fixes will have the biggest blast radius. Focus here first, then follow through on the micro-level.
 5. Use the data to drive change, not just monitor metrics.
 6. Get senior leaders involved.
+
+GENERAL NOTES
+-	80% of SaaS companies are not profitable on a GAAP basis.  OI is low ~15% where I am at 25%
+-	SaaS or Ctm Success GM is ~70% where Supt Svs GM is ~90%
+-	SaaS Waterfall:
+o	Starting ARR expected for next year [100]
+o	New Logos [10]
+o	Adjusted ARR [110]
+o	Churn [-10]
+o	Downsell [-10]
+o	Gross Ret Rate 82% [90 of 110]
+o	US 20
+o	XS 20
+o	End of Yr Ret Rate 120
+o	Ret Rate Growth is 20% or Ret Rate 120% [120 of 100]
+-	Ctm Acq Cost = about $1.07 for every $1 of Revs
+-	Ctm Exp Cost = about $0.18 for every $1 of Revs
+-	Ctm Ret Cost = about $0.12 for every $1 of Revs
+-	THUS ROI FOR CTM SUCCESS IS GREAT
+-	NEED ANALYTICS FOR EFFECTIVE GROWTH STRATEGY – ROI IS THERE FOR INVESTING
+1.	CX strategy: what experience do we want to create for ctm
+2.	Ctm Engagement strategy: what prods/svs should we create to deliver experience
+3.	Infrastructure: what people, process changes do we need to deliver vision
+4.	Tech: need to invest to become data driven and efficient
