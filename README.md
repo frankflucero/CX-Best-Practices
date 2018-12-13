@@ -116,15 +116,25 @@ GENERAL NOTES -TSIA
 -	SaaS or Ctm Success GM is ~70% where Supt Svs GM is ~90%
 -	SaaS Waterfall:
 o	Starting ARR expected for next year [100]
+
 o	New Logos [10]
+
 o	Adjusted ARR [110]
+
 o	Churn [-10]
+
 o	Downsell [-10]
+
 o	Gross Ret Rate 82% [90 of 110]
+
 o	US 20
+
 o	XS 20
+
 o	End of Yr Ret Rate 120
+
 o	Ret Rate Growth is 20% or Ret Rate 120% [120 of 100]
+
 -	Ctm Acq Cost = about $1.07 for every $1 of Revs
 -	Ctm Exp Cost = about $0.18 for every $1 of Revs
 -	Ctm Ret Cost = about $0.12 for every $1 of Revs
