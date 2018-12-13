@@ -115,6 +115,7 @@ GENERAL NOTES -TSIA
 -	80% of SaaS companies are not profitable on a GAAP basis.  OI is low ~15% where I am at 25%
 -	SaaS or Ctm Success GM is ~70% where Supt Svs GM is ~90%
 -	SaaS Waterfall:
+
 o	Starting ARR expected for next year [100]
 
 o	New Logos [10]
