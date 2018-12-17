@@ -145,3 +145,13 @@ o	Ret Rate Growth is 20% or Ret Rate 120% [120 of 100]
 2.	Ctm Engagement strategy: what prods/svs should we create to deliver experience
 3.	Infrastructure: what people, process changes do we need to deliver vision
 4.	Tech: need to invest to become data driven and efficient
+
+Leadership:
+-	Lead by inspiration not by dictation
+-	Ask questions
+-	Listen more than talking
+-	Be VOC and carry through organization
+-	Learn about employees and ctms – their desires and input
+-	Kind and inclusive environment
+
+
