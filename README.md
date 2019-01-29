@@ -146,6 +146,7 @@ o	Ret Rate Growth is 20% or Ret Rate 120% [120 of 100]
 3.	Infrastructure: what people, process changes do we need to deliver vision
 4.	Tech: need to invest to become data driven and efficient
 
-
+TEAMS THAT LEARN CONTINUOUS IMPROVEMENT FROM FAILING:
+Failure hurts, but individuals and groups can derive major benefits from the experience, under the right conditions. According to a study published in the journal Organization Science, teams that prioritize psychological safety and have a clear system to share the lessons they have learned with others are especially capable of benefiting from setbacks. That ideal combination helps employees feel like it’s okay to share, rather than hide, their failures and it allows them to view teammates as resources, not rivals.
 
 
