@@ -148,5 +148,10 @@ o	Ret Rate Growth is 20% or Ret Rate 120% [120 of 100]
 
 TEAMS THAT LEARN CONTINUOUS IMPROVEMENT FROM FAILING:
 Failure hurts, but individuals and groups can derive major benefits from the experience, under the right conditions. According to a study published in the journal Organization Science, teams that prioritize psychological safety and have a clear system to share the lessons they have learned with others are especially capable of benefiting from setbacks. That ideal combination helps employees feel like it’s okay to share, rather than hide, their failures and it allows them to view teammates as resources, not rivals.
+Here are some ways to debate ideas productively at work:
+✅First things first, remember that everyone is on the same team and the goal is to uncover better solutions together.
+✅The discussions have to be based on facts. Check for logical fallacies, the validity of assumptions, quality of evidence and interpretations.
+✅Avoid any form of judgement and making it personal.
+✅Encourage members of the team to feel free to change their mind
 
 
